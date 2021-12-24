@@ -23,8 +23,3 @@ I'll be using CRISP-DS methodology (with 10 steps) to solve Stroke Prediction. T
 (Step 3) Data collection
   
   * This step was already done. The dataset is available here: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset.
-    
-    
-(Step 4) Data cleaning
-
-  I'm here :)
